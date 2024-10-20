@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "*.c11": "cpp",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "system_error": "c"
+    }
+}
